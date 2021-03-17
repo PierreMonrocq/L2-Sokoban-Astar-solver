@@ -1,0 +1,44 @@
+{"affichage":
+ [{"bouton_retour":"true",
+   "contours":"false",
+   "taille_fenetre_x":"900",
+   "taille_fenetre_y":"900",
+   "theme":"Gris"
+}],
+ "audio":
+ [{"desactiver_son":"false",
+   "volume":"50"
+}],
+ "personnage":
+ [{"selection_perso":"1"
+}],
+ "theme": 
+    {
+    "ListeCouleur": "Rouge Bleu Vert Classic Gris",
+    "Vert": [{
+        "BgColor": "101 128 75", 
+        "BarreColor": "63 84 52", 
+        "ButColor": "155 196 116", 
+        "ButColorSurvol": "106 176 76" }],
+    "Rouge": [{
+        "BgColor": "179 53 53", 
+        "BarreColor": "128 38 38", 
+        "ButColor": "231 76 60", 
+        "ButColorSurvol": "192 57 43"}],
+    "Bleu": [{
+        "BgColor": "24 67 137", 
+        "BarreColor": "16 44 89", 
+        "ButColor": "52 152 219", 
+        "ButColorSurvol": "41 128 185"}],
+    "Classic":[{
+        "BgColor": "204 174 98", 
+        "BarreColor": "143 89 34", 
+        "ButColor": "236 204 104", 
+        "ButColorSurvol": "246 185 59"}],
+    "Gris": [{
+        "BgColor": "137 137 137", 
+        "BarreColor": "77 77 77", 
+        "ButColor": "166 166 166", 
+        "ButColorSurvol": "115 115 115"}]
+    }
+}
