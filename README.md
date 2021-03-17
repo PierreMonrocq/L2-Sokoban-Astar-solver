@@ -8,6 +8,8 @@ Features:
 - sounds support
 - menus and options
 - themes and characters selection 
+- back and reset button
+- gui scaling
 
 <img src="/images/Unjoueur.PNG" width="500">
 <img src="/images/grand.PNG" width="500">
